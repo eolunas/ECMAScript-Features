@@ -1,4 +1,4 @@
-// replace all
+// replace all 
 const string =
    "JavaScript is wonderful, with JavaScript I could create the future of the web";
 
