@@ -6,7 +6,7 @@ function newFunction(name, age, country) {
    console.log(name, age, country);
 }
 
-// es6:
+// es6:  JUNE 2015
 function newFunction2(name = "Eduardo", age = 28, country = "COL") {
    console.log(name, age, country);
 }
@@ -45,7 +45,7 @@ console.log(person.name, person.age);
 let { name, age, country } = person;
 console.log(name, age, country);
 
-// Propagation operator es6
+// Spread operator es6
 let team1 = ["Eduardo", "Yuri", "Marco"];
 let team2 = ["Maria", "Juan", "Camilo"];
 
