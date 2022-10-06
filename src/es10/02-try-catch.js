@@ -6,7 +6,6 @@ try {
 
 try {
    hello2();
-} catch (error) {
-   console.log(error);
+} catch {
    console.log('Error defined by user');
 }
